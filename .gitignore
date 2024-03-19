@@ -161,3 +161,4 @@ cython_debug/
 
 # Downloaded files
 **audios/
+**.DS_Store
